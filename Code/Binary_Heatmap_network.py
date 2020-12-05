@@ -2,7 +2,15 @@
 # coding: utf-8
 
 # In[335]:
-
+#/************************************************************************************************/
+#/*** Topic: Binary_Heatmap_network                                                            ***/
+#/***                                                                         Ali-Seif         ***/
+#/*** Version Release 17.12 rev 11256                                                          ***/
+#/*** Date: 12/5/2020                                                                          ***/
+#/*** Code implemented in CodeBlocks C++ compiler (v. 17.12),                                  ***/
+#/*** MSI: PX60 6QD/ DDR4                                                                      ***/
+#/*** Run under a Intel® Core™ i7-6700HQ CPU @ 2.60GHz × 64 based processor with 16 GB RAM     ***/
+#/************************************************************************************************/
 
 import igraph as ig
 import plotly.graph_objects as go

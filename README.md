@@ -16,10 +16,6 @@ __________________________________
 # Binary_Heatmap_network_red_article
 
 
-<p align="center">
- <img src="https://github.com/aliseif321/Binary_Heatmap_network/blob/main/Heatmap%20red%20article/myplot.png?raw=true" >
- </p>
-
 
 ```ruby
 import numpy as np
@@ -58,3 +54,7 @@ plt.plot(x,y, linewidth=2, color='silver')
 plt.savefig("myplot.png", dpi = 1000)
 
 ``` 
+
+<p align="center">
+ <img src="https://github.com/aliseif321/Binary_Heatmap_network/blob/main/Heatmap%20red%20article/myplot.png?raw=true" >
+ </p>

@@ -58,3 +58,17 @@ plt.savefig("myplot.png", dpi = 1000)
 <p align="center">
  <img src="https://github.com/aliseif321/Binary_Heatmap_network/blob/main/Heatmap%20red%20article/myplot.png?raw=true" >
  </p>
+
+
+__________________________________
+
+# Binary Heatmap network red article with details
+
+<p align="center">
+ <img src="https://github.com/aliseif321/Binary_Heatmap_network/blob/main/Heatmap%20red%20article/Untitled%20Folder/syncs.png?raw=true" >
+ </p>
+
+<p align="center">
+ <img src="https://github.com/aliseif321/Binary_Heatmap_network/blob/main/Heatmap%20red%20article/Untitled%20Folder/binary.png?raw=true" >
+ </p>
+
